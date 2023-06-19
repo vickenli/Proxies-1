@@ -135,7 +135,7 @@
 - [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `1`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), 节点数量: `1`
 - [agit.ai/12/a](https://agit.ai/12/a), 节点数量: `0`
-- [weoknow.com](https://freenode.me/), 节点数量: `1`
+- [weoknow.com](https://freenode.me/), 节点数量: `0`
 
 ## 客户端选择
 ### 主流桌面客户端
