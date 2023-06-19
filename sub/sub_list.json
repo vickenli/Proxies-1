@@ -40,5 +40,19 @@
     "site": "https://github.com/learnhard-cn/free_proxy_ss",
     "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/config.yaml",
     "enabled": true
+  },
+  {
+    "id": 7,
+    "remarks": "agit.ai/12/a",
+    "site": "https://agit.ai/12/a",
+    "url": "https://agit.ai/12/a",
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "remarks": "weoknow.com",
+    "site": "https://freenode.me/",
+    "url": "https://weoknow.com/index.php/article/c11.html",
+    "enabled": true
   }
 ]
